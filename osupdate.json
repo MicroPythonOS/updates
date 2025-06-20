@@ -1,5 +1,5 @@
 {
-"version": "0.0.6",
-"download_url": "https://updates.micropythonos.com/releases/Waveshare/ESP32-S3-Touch-LCD-2/Waveshare_ESP32-S3-Touch-LCD-2_0.0.6.bin",
-"changelog": "- Scale button size in drawer for bigger screens\n- Show 'Brightness' text in drawer\n- Add builtin 'Settings' app with settings for Light/Dark Theme, Theme Color, Restart to Bootloader\n- Add 'Settings' button to drawer that opens settings app\n- Save and restore 'Brightness' setting\n- AppStore: speed up app installs\n- Camera: scale camera image to fit screen on bigger displays\n- Camera: show decoded result on-display if QR decoded"
+"version": "0.0.7",
+"download_url": "https://updates.micropythonos.com/releases/Waveshare/ESP32-S3-Touch-LCD-2/Waveshare_ESP32-S3-Touch-LCD-2_0.0.7.bin",
+"changelog": "- Update battery icon every 5 seconds depending on voltage level\n- Add 'Power' off button in menu drawer"
 }
