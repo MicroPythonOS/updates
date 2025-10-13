@@ -1,0 +1,5 @@
+{
+"version": "0.1.1",
+"download_url": "https://updates.micropythonos.com/releases/Fri3d-Camp/fri3d-2024/MicroPythonOS_fri3d-2024_prod_0.1.1.bin",
+"changelog": "- OSUpdate: check update depending on current hardware identifier"
+}
