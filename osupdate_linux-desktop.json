@@ -1,5 +1,5 @@
 {
-"version": "0.0.0",
-"download_url": "https://nothing-to-see-here.com",
-"changelog": "Over-The-Air Updates are not available for the linux-desktop platform. Sorry!"
+"version": "0.1.1",
+"download_url": "https://updates.micropythonos.com/releases/linux-desktop/MicroPythonOS_amd64_Linux_0.1.1",
+"changelog": "Over-The-Air Updates are not available\nfor the linux-desktop platform.\n\nYou can force and simulate it though."
 }
