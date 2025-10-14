@@ -1,5 +1,5 @@
 {
 "version": "0.0.9",
-"download_url": "https://updates.micropythonos.com/releases/Waveshare/ESP32-S3-Touch-LCD-2/Waveshare_ESP32-S3-Touch-LCD-2_0.0.9.bin",
-"changelog": " UI: add visual cues during back/top swipe gestures\n- UI: prevent menu drawer button clicks while swiping\n- Settings: add Timezone configuration\n- Draw: new app for simple drawing on a canvas\n- IMU: new app for showing data from the Intertial Measurement Unit ('Accellerometer')\n- Camera: speed up QR decoding 4x - thanks @kdmukai!"
+"download_url": "https://updates.micropythonos.com/releases/Waveshare/ESP32-S3-Touch-LCD-2/MicroPythonOS_waveshare-esp32-s3-touch-lcd-2_prod_0.1.1.ota",
+"changelog": "- Update to MicroPython 1.25.0 and LVGL 9.3.0\n- About app: add info about over-the-air partitions\n- OSUpdate app: check update depending on current hardware identifier, add 'force update' option, improve user feedback\n- AppStore, Camera, Launcher, Settings: adjust for compatibility with LVGL 9.3.0"
 }
