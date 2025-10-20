@@ -1,5 +1,5 @@
 {
-"version": "0.1.1",
-"download_url": "https://updates.micropythonos.com/releases/linux-desktop/MicroPythonOS_amd64_Linux_0.1.1",
+"version": "0.2.1",
+"download_url": "https://updates.micropythonos.com/releases/linux-desktop/MicroPythonOS_amd64_linux_0.2.1.elf",
 "changelog": "Over-The-Air Updates are not available\nfor the linux-desktop platform but they\ncan be (forced and) simulated, to test the app."
 }
