@@ -1,5 +1,5 @@
 {
-"version": "0.1.1",
-"download_url": "https://updates.micropythonos.com/releases/Fri3d-Camp/fri3d-2024/MicroPythonOS_fri3d-2024_prod_0.1.1.ota",
-"changelog": "- Update to MicroPython 1.25.0 and LVGL 9.3.0\n- About app: add info about over-the-air partitions\n- OSUpdate app: check update depending on current hardware identifier, add 'force update' option, improve user feedback\n- AppStore, Camera, Launcher, Settings: adjust for compatibility with LVGL 9.3.0"
+"version": "0.2.0",
+"download_url": "https://updates.micropythonos.com/releases/Fri3d-Camp/fri3d-2024/MicroPythonOS_fri3d-2024_prod_0.2.0.ota",
+"changelog": "- Fix KeyPad focus handling for devices without touch screen like the Fri3d Camp 2024 Badge\n- Use direction arrows for more intuitive navigation instead of B/A or pageup/pagedown for previous/next\n- About app: enable scrolling using arrow keys so off-screen info can be viewed\n- About app: add info about freezefs compiled-in filesystem\n- AppStore app: don't update UI after the user has closed the app\n- Launcher app: improve error handling\n- Wifi app: cleanup and improve keyboard and focus handling\n- Wifi app: improve different screensize handling"
 }
