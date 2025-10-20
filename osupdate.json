@@ -1,5 +1,5 @@
 {
 "version": "0.2.0",
 "download_url": "https://updates.micropythonos.com/releases/Waveshare/ESP32-S3-Touch-LCD-2/MicroPythonOS_waveshare-esp32-s3-touch-lcd-2_prod_0.2.0.ota",
-"changelog": "- Fix KeyPad focus handling for devices without touch screen like the Fri3d Camp 2024 Badge\n- Use direction arrows for more intuitive navigation instead of B/A or pageup/pagedown for previous/next\n- About app: enable scrolling using arrow keys so off-screen info can be viewed\n- About app: add info about freezefs compiled-in filesystem\n- AppStore app: don't update UI after the user has closed the app\n- Launcher app: improve error handling\n- Wifi app: cleanup and improve keyboard and focus handling\n- Wifi app: improve different screensize handling"
+"changelog": "- Fix KeyPad focus handling for devices without touch screen like the Fri3d Camp 2024 Badge\n- Use direction arrows for more intuitive navigation instead of Y/A or pageup/pagedown for previous/next\n- About app: enable scrolling using arrow keys so off-screen info can be viewed\n- About app: add info about freezefs compiled-in filesystem\n- AppStore app: don't update UI after the user has closed the app\n- Launcher app: improve error handling\n- Wifi app: cleanup and improve keyboard and focus handling\n- Wifi app: improve different screensize handling"
 }
