@@ -1,0 +1,5 @@
+{
+"version": "0.8.0",
+"download_url": "https://updates.micropythonos.com/releases/esp32/MicroPythonOS_esp32_0.8.0.ota",
+"changelog": "0.8.0\n=====\n\nBuiltin Apps:\n- About: use logger framework\n- AppStore: mark BadgeHub backend as 'beta'\n- Launcher: improve layout on different screen width sizes\n- OSUpdate: remove 'force update' checkbox not in favor of varying button labels\n\nFrameworks:\n- SDCard: add support for SDIO/SD/MMC mode\n- CameraManager and CameraActivity: work fully camera-agnostic\n\nOS:\n- Add board support: Makerfabs MaTouch ESP32-S3 SPI IPS 2.8' with Camera OV3660\n- Scale MicroPythonOS boot logo down if necessary\n- Don't show battery icon if battery is not supported\n- Move logging.py to subdirectory"
+}
