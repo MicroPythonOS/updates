@@ -1,8 +1,6 @@
-These 3 files are the same, as of the unified builds:
-- osupdate_fri3d_2024.json is the new file for 0.4.1 releases
-- osupdate_matouch_esp32_s3_spi_ips_2_8_with_camera_ov3660.json is the file for the matouch_esp32_s3_spi_ips_2_8_with_camera_ov3660 board
-
 osupdate_linux.json is for linux releases for 0.4.1 and after
+
+osupdate_unphone.json is special because the unPhone 9 doesn't have enough storage space to support OTA updates, unless someone finds a solution.
 
 # Phasing out:
 - osupdate_linux-desktop.json is the legacy file for pre-0.4.1 releases, when the device ID was linux-desktop instead of linux

@@ -1,0 +1,5 @@
+{
+"version": "0.0.0",
+"download_url": "https://updates.micropythonos.com/releases/esp32s3/Over-the-Air-updates-not-supported-for-your-device.ota",
+"changelog": "Sorry, the unPhone doesn't have enough storage space to support over-the-air updates, as it requires 2 partitions; one to boot from and the other to install to... if you think you have a solution for this, feel free to propose something!"
+}
