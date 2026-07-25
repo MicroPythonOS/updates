@@ -1,5 +1,5 @@
 {
 "version": "0.12.0",
 "download_url": "https://updates.micropythonos.com/releases/linux/MicroPythonOS_amd64_linux_0.2.1.elf",
-"changelog": "Over-The-Air Updates are not available for the\nlinux-desktop platform but they can\nbe simulated to test the app."
+"changelog": "Over-The-Air Updates are not available for the\nlinux-desktop platform but they can\nbe simulated to test the app.\n\nThis changelog is also very long on purpose, to test how the app displays it. Other than that, it doesn't have much use.\n\nThanks for readying,\nhave fun and be the best you can be!\n\nSincerly,\nthe MicroPythonOS community."
 }
