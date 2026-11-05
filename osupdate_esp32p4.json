@@ -1,5 +1,5 @@
 {
-"version": "0.21.1",
-"download_url": "https://updates.micropythonos.com/releases/esp32p4/MicroPythonOS_esp32p4_0.21.1.ota",
-"changelog": "Frameworks:\n- FontManager: an emoji that is first looked up while LVGL is drawing, such as in a textarea placeholder, no longer hangs the whole system (the snapshot that scales it waited for the draw that asked for it); it is scaled once the frame is done and shows on the next one"
+"version": "0.21.2",
+"download_url": "https://updates.micropythonos.com/releases/esp32p4/MicroPythonOS_esp32p4_0.21.2.ota",
+"changelog": "0.21.2\n\nBuiltin Apps:\n- Emoji Sort: generating a level no longer freezes the UI or the USB-CDC console for ~23 s on ESP32 (#347)\n\nTesting:\n- Add a hardware OTA release-validation gate (webcam-verified) and make it a required release step; includes a local updates-metadata server and make targets\n- Cover cold-cache emoji paths and document render-time rules\n- AppStore placeholder icon test now scales to the actual display metrics\n\nBuild:\n- Fail before building when a symlink under internal_filesystem/lib dangles, instead of silently shipping firmware without nostr/camera modules (#149)"
 }
